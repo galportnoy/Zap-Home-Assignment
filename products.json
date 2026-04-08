@@ -1,0 +1,54 @@
+[
+  {"name": "Samsung Galaxy S23", "price": 799.00},
+  {"name": "סמסונג גלקסי S23", "price": 749.00},
+  {"name": "Samsng Galxy S23", "price": 820.00},
+
+  {"name": "Apple iPhone 14 Pro", "price": 999.00},
+  {"name": "אייפון 14 פרו", "price": 950.00},
+  {"name": "Aple iPhon 14 Pro", "price": 1020.00},
+
+  {"name": "Sony WH-1000XM5", "price": 349.00},
+  {"name": "sony wh1000xm5 headphones", "price": 380.00},
+  {"name": "אוזניות סוני WH-1000XM5", "price": 360.00},
+  {"name": "Sonny WH1000 XM5", "price": 370.00},
+
+  {"name": "Logitech MX Master 3", "price": 99.99},
+  {"name": "לוג'יטק MX Master 3", "price": 89.99},
+  {"name": "Logitec MX Maste 3 Mouse", "price": 110.00},
+
+  {"name": "Dell XPS 15", "price": 1599.00},
+  {"name": "dell xps 15 laptop", "price": 1549.00},
+  {"name": "דל XPS 15", "price": 1520.00},
+  {"name": "Del XPS15", "price": 1580.00},
+
+  {"name": "Nintendo Switch OLED", "price": 349.99},
+  {"name": "נינטנדו סוויץ' OLED", "price": 329.99},
+  {"name": "Nintindo Swich OLED", "price": 359.00},
+
+  {"name": "Apple AirPods Pro 2", "price": 249.00},
+  {"name": "AirPods Pro 2nd Gen", "price": 239.00},
+  {"name": "אייר פודס פרו דור 2", "price": 229.00},
+  {"name": "Airpod Pro 2 Gen", "price": 255.00},
+
+  {"name": "MacBook Air M2", "price": 1199.00},
+  {"name": "מקבוק אייר M2", "price": 1149.00},
+  {"name": "Macbok Air M2 Chip", "price": 1249.00},
+
+  {"name": "LG OLED C3 55 inch TV", "price": 1299.00},
+  {"name": "טלוויזיה LG OLED C3 55", "price": 1199.00},
+  {"name": "LG C3 OLED 55 TV", "price": 1349.00},
+  {"name": "LG OLEG C3 55inch", "price": 1280.00},
+
+  {"name": "Bose QuietComfort 45", "price": 279.00},
+  {"name": "בוז קוויאט קומפורט 45", "price": 259.00},
+  {"name": "Bose Quiet Comfort45", "price": 299.00},
+  {"name": "Bos QC 45 Headphones", "price": 269.00},
+
+  {"name": "GoPro Hero 12 Black", "price": 399.00},
+  {"name": "גו פרו הירו 12", "price": 379.00},
+  {"name": "Go Pro Hero12", "price": 410.00},
+
+  {"name": "Kindle Paperwhite 11th Gen", "price": 139.00},
+  {"name": "קינדל פייפרוויט", "price": 129.00},
+  {"name": "Kindle Paprwhite 11 Gen", "price": 145.00}
+]
