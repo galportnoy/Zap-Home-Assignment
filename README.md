@@ -2,6 +2,10 @@
 
 A Python script that deduplicates a product list using Gemini AI to assign a canonical name to each product. Products that refer to the same item — even when written in different languages or with inconsistent formatting — are merged, keeping only the lowest-priced entry.
 
+The solution is based on sending a list of products to an AI model, which returns a standardized name for each product. This allows different variations of the same product such as "Samsung S23" and "סמסונג גלקסי 23" to be grouped together, even if they are written in different languages or formats.
+
+The advantage of this approach is that the AI handles the complex task of identifying duplicates, while the code remains simple and clean, focusing on grouping the data and keeping the lowest price for each group.
+
 ## How it works
 
 1. Products are loaded from `products.json` (each entry needs a `name` and `price` field).
