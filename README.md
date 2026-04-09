@@ -4,6 +4,7 @@ A Python script that deduplicates a product list using AI to assign a canonical 
 
 The solution is based on sending a list of products to an AI model, which returns a standardized name for each product. 
 This allows different variations of the same product such as "Samsung S23" and "סמסונג גלקסי 23" to be grouped together, even if they are written in different languages or formats.
+
 The advantage of this approach is that the AI handles the complex task of identifying duplicates, while the code remains simple and clean, focusing on grouping the data and keeping the lowest price for each group.
 
 ## How it works
